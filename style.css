@@ -17,15 +17,22 @@ border: 5px solid #fff;
 padding : 0;
 margin-top : 0;
 height : 130px;
-background : #5a8f57 url(images/orb.png) no-repeat right center;
+background : #004477 no-repeat right center;
+color : #FF0000
 }
 #banner h1 {
 float : right;
 margin-top : 0;
 letter-spacing : 3px;
-font-size : 110%;
+font-size : 140%;
 padding : 50px 50px 0 0;
-color : #000;
+color : #FFFF88;
+}
+#banner h1 a {
+letter-spacing : 3px;
+font-size : 140%;
+color : #00FF00;
+underline: none
 }
 			/*TOP NAV*/
 #navbar ul {
@@ -58,9 +65,9 @@ display : inline;
 }
 			/*MAIN CONTENT*/
 #content {
-width : 500px;
+width : 700px;
 padding : 1em;
-margin-left : 230px;
+margin-left : 50px;
 }
 			/*SIDEBAR*/
 #sidebar {
@@ -94,7 +101,13 @@ color : #c7d9c3;
 padding : 5px;
 margin-top : 5px;
 border-top : 5px solid #fff;
-background : #5a8f57;
+background : #004477;
+}
+#sfooter {
+padding : 5px;
+margin-top : 5px;
+font-style : italic;
+color : #FF0000
 }
 #footer a, a:visited {
 color : #333;
