@@ -69,6 +69,19 @@ width : 700px;
 padding : 1em;
 margin-left : 50px;
 }
+
+#left-content {
+float: left;  
+}
+#center-content {
+float: center;  
+}
+
+#right-content {
+padding : 50px;
+margin-left : 100px;
+float: right;  
+}		
 			/*SIDEBAR*/
 #sidebar {
 float : left;
