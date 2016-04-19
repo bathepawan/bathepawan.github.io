@@ -72,6 +72,7 @@ margin-left : 50px;
 
 #left-content {
 float: left;  
+margin-right: 60px;
 }
 #center-content {
 float: center;  
