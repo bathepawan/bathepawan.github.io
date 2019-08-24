@@ -1427,3 +1427,18 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+
+
+#android_apps_row, #open_source_row, #others_row{
+    display:none;
+}
+#android_apps_row:target{
+    display:block;
+}
+#open_source_row:target{
+    display:block;
+}
+#others_row:target{
+    display:block;
+}
